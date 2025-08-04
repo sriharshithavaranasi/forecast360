@@ -1,6 +1,8 @@
 # Forecast360
 
 **Forecast360** is a real-time revenue risk radar for SaaS companies. It predicts churn using usage data, support signals, and CRM info. Built for the Tableau Next Hackathon.
+
+
 Pitch: Forecast360 is a real-time churn risk radar that helps SaaS companies retain customers by visualizing at-risk revenue and explaining churn predictions, powered by Tableau Next and Einstein AI.
 
 
