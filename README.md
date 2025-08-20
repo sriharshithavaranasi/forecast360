@@ -16,7 +16,7 @@ Pitch: Forecast360 is a real-time churn risk radar that helps SaaS companies ret
 
 ## Milestones
 - [x] Week 1: Setup
-- [ ] Week 2: Data Pipelines
+- [x] Week 2: Dummy Data + Pipelines
 - [ ] Week 3: Churn Prediction Model
 - [ ] Week 4: Dashboard Design
 - [ ] Week 5: Slack/CRM Alerts
