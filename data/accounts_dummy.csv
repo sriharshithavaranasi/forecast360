@@ -1,0 +1,6 @@
+Ext_Account_ID_c,Name,Industry,AnnualRevenue,NPS_Score_c,Feature_Usage_Hours_14d_c,Logins_14d_c,Usage_Drop_Pct_14d_c,Open_Tickets_14d_c,Avg_Slack_Sentiment_14d_c,Churned_Last_60d_c
+A001,Acme Corp,Software,1200000,60,30.5,120,0.10,3,0.25,false
+A002,Zen Systems,Finance,800000,40,12.0,55,0.35,6,-0.20,false
+A003,BetaWorks,Healthcare,500000,30,5.0,20,0.60,1,-0.05,true
+A004,Cloudify,Tech,2000000,75,45.0,150,0.05,2,0.40,false
+A005,NextGen Labs,Biotech,1000000,50,18.0,80,0.25,4,-0.10,false
